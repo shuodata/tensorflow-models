@@ -23,3 +23,4 @@ To propose a model for inclusion please submit a pull request.
 - [transformer](transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
  
  
+ 
